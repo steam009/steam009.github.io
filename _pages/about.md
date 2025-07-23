@@ -19,29 +19,29 @@ In the end, I aim to enable more efficient, accessible, and robust AI systems fo
 ======
 **PhD student in Computer Science** — Hong Kong Baptist University
 
-📍Hong Kong, CN | 📅 2024 — Present
+📍Hong Kong, CN \| 📅 2024 — Present
 
 **BS in Computer Science and Technology** — Shenzhen University
 
-📍Shenzhen, CN | 📅 2019 — 2023
+📍Shenzhen, CN \| 📅 2019 — 2023
 
 👨‍💻 Experience
 ======
 
 **Research Assistant** — *Hong Kong Baptist University*
 
-📍Hong Kong, CN | 📅 2023 — 2024
+📍Hong Kong, CN \| 📅 2023 — 2024
 
 📖 Publication
 ======
-$\textbf{[1]}$ **Sitian Chen**, Amelie Chi Zhou, et al. UpANNS: Enhancing Billion-Scale ANNS Efficiency with Practical PIM Hardware.
+1. **Sitian Chen**, Amelie Chi Zhou, et al. UpANNS: Enhancing Billion-Scale ANNS Efficiency with Practical PIM Hardware.
 **In SC 25**
 
-$\textbf{[2]}$ **Sitian Chen**, Tan H, Amelie Chi Zhou, et al. UpDLRM: Accelerating Personalized Recommendation using Real-World PIM Architecture. **In DAC 2024**
+2. **Sitian Chen**, Tan H, Amelie Chi Zhou, et al. UpDLRM: Accelerating Personalized Recommendation using Real-World PIM Architecture. **In DAC 2024**
 
-$\textbf{[3]}$ **Sitian Chen**, Amelie Chi Zhou, et al. GPAQuant: Accelerating Personalized Recommendation with Group-Wise and PIM-Aware Quantization. (Under Review)
+3. **Sitian Chen**, Amelie Chi Zhou, et al. GPAQuant: Accelerating Personalized Recommendation with Group-Wise and PIM-Aware Quantization. (Under Review)
 
-$\textbf{[4]}$ Xiao Y, **Sitian Chen**, Amelie Chi Zhou et al. Low-Latency Video Conferencing System for Geo-Distributed Data Centers. **In IEEE International Symposium of Quality of Service (IWQoS), 2024.**
+4. Xiao Y, **Sitian Chen**, Amelie Chi Zhou et al. Low-Latency Video Conferencing System for Geo-Distributed Data Centers. **In IEEE International Symposium of Quality of Service (IWQoS), 2024.**
 
 🎖️Honors and Awards
 ======
@@ -53,4 +53,4 @@ $\textbf{[4]}$ Xiao Y, **Sitian Chen**, Amelie Chi Zhou et al. Low-Latency Video
 ======
 **Operating system**
 
-📅 Spring 2025 | *TA Performance Award*
+📅 Spring 2025 \| *TA Performance Award*
