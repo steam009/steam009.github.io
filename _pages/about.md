@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Welcome!** I am a PhD student in the department of computer science in Hong Kong Baptist University, advised by [Amelie Chi Zhou](https://amelieczhou.github.io/). I earned my BS in Shenzhen University of computer science and technology.
+**Welcome!** I am a PhD student in the department of computer science in Hong Kong Baptist University, advised by [Prof. Amelie Chi Zhou](https://amelieczhou.github.io/). I earned my BS in Shenzhen University of computer science and technology.
 
 You can find my CV here: [Sitian CHEN](../assets/Resume_CV__Sitian_CHEN%20(2).pdf) I am always happy to chat with you! [Wechat](../images/wechat.jpg)
 
