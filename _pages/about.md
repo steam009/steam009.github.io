@@ -41,7 +41,7 @@ In the end, I aim to enable more efficient, accessible, and robust AI systems fo
 
 <!-- 3. **Sitian Chen**, Amelie Chi Zhou, et al. GPAQuant: Accelerating Personalized Recommendation with Group-Wise and PIM-Aware Quantization. (Under Review) -->
 
-4. Xiao Y, **Sitian Chen**, Amelie Chi Zhou et al. Low-Latency Video Conferencing System for Geo-Distributed Data Centers. **In IEEE International Symposium of Quality of Service (IWQoS), 2024.**
+3. Xiao Y, **Sitian Chen**, Amelie Chi Zhou et al. Low-Latency Video Conferencing System for Geo-Distributed Data Centers. **In IEEE International Symposium of Quality of Service (IWQoS), 2024.**
 
 🎖️Honors and Awards
 ======
