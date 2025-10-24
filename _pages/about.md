@@ -9,7 +9,7 @@ redirect_from:
 
 **Welcome!** I am a PhD student in the department of computer science in Hong Kong Baptist University, advised by [Prof. Amelie Chi Zhou](https://amelieczhou.github.io/). I earned my BS in Shenzhen University of computer science and technology.
 
-You can find my CV here: [Sitian CHEN](../assets/Resume_CV__Sitian_CHEN%20(2).pdf) I am always happy to chat with you! [Wechat](../images/wechat.jpg)
+You can find my CV here: [Sitian CHEN](../assets/Resume_CV__Sitian_CHEN%20(2).pdf) I am always happy to chat with you! 
 
 My research interests focus on **system for AI application**, especially in **processing-in-memory**, **high-performance computing**. My work aims to improve the cost-efficiency of cutting-edge applications in
 machine learning systems, including retrieval-augmented generation (RAG), vector search, and recommender systems. By exploring new hardware solutions and optimizing system-level integration, my goal is to bridge the gap between rapidly evolving machine learning models and the underlying computational infrastructure.
