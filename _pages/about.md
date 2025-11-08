@@ -34,14 +34,17 @@ In the end, I aim to enable more efficient, accessible, and robust AI systems fo
 
 📖 Publication
 ======
-1. **Sitian Chen**, Amelie Chi Zhou, et al. UpANNS: Enhancing Billion-Scale ANNS Efficiency with Practical PIM Hardware.
+1. **Sitian Chen**, Amelie Chi Zhou, Yucheng Shi, Xin Yao. UpANNS: Enhancing Billion-Scale ANNS Efficiency with Practical PIM Hardware.
 **In SC 25**
 
-2. **Sitian Chen**, Tan H, Amelie Chi Zhou, et al. UpDLRM: Accelerating Personalized Recommendation using Real-World PIM Architecture. **In DAC 2024**
+2. **Sitian Chen**, Haobin Tan, Amelie Chi Zhou, Yusen Li, Pavan Balaji **(Meta)**. UpDLRM: Accelerating Personalized Recommendation using Real-World PIM Architecture. **In DAC 2024**
+
+3. Wenjun Yu, **Sitian Chen**, Amelie Chi Zhou, Cheng Chen **(Bytedance)**. Near-Zero-Overhead Freshness for Recommendation Systems via
+Inference-Side Model Updates. **In HPCA' 2026**
 
 <!-- 3. **Sitian Chen**, Amelie Chi Zhou, et al. GPAQuant: Accelerating Personalized Recommendation with Group-Wise and PIM-Aware Quantization. (Under Review) -->
 
-3. Xiao Y, **Sitian Chen**, Amelie Chi Zhou et al. Low-Latency Video Conferencing System for Geo-Distributed Data Centers. **In IEEE International Symposium of Quality of Service (IWQoS), 2024.**
+3. Yao Xiao, **Sitian Chen**, Amelie Chi Zhou, Shuhao Zhang, Yi Wang, Rui Mao, Xuan Yang. Low-Latency Video Conferencing System for Geo-Distributed Data Centers. **In IWQoS, 2024.**
 
 🎖️Honors and Awards
 ======
