@@ -1,5 +1,22 @@
-{% if site.url %}
-  {% assign base_path = site.url | append: site.baseurl %}
-{% else %}
+{% comment %}
+  base_path logic for consistent behavior between local and production:
+  - On GitHub Pages: site.github.url is automatically set by GitHub, use it
+  - In local development: detect localhost/0.0.0.0 and use empty string for relative paths
+  - Fallback: use site.url if available (for other hosting scenarios)
+{% endcomment %}
+{% if site.github.url %}
+  {% comment %}GitHub Pages automatically sets site.github.url{% endcomment %}
   {% assign base_path = site.github.url %}
+{% elsif site.url %}
+  {% comment %}Check if URL is localhost/0.0.0.0 (local development){% endcomment %}
+  {% if site.url contains "localhost" or site.url contains "127.0.0.1" or site.url contains "0.0.0.0" %}
+    {% comment %}Local development: use empty string for relative paths{% endcomment %}
+    {% assign base_path = "" %}
+  {% else %}
+    {% comment %}Production URL from config{% endcomment %}
+    {% assign base_path = site.url | append: site.baseurl %}
+  {% endif %}
+{% else %}
+  {% comment %}No URL set, use baseurl only (usually empty string){% endcomment %}
+  {% assign base_path = site.baseurl %}
 {% endif %}

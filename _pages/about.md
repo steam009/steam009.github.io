@@ -28,23 +28,27 @@ In the end, I aim to enable more efficient, accessible, and robust AI systems fo
 👨‍💻 Experience
 ======
 
+**Summer School** — *Data Science, Learning and Optimization (DataSLO) organized by the University for Foreigners of Perugia*
+
+📍Norcia, Italy \| 📅 June 2025
+
 **Research Assistant** — *Hong Kong Baptist University*
 
 📍Hong Kong, CN \| 📅 2023 — 2024
 
 📖 Publication
 ======
-1. **Sitian Chen**, Amelie Chi Zhou, Yucheng Shi, Xin Yao. UpANNS: Enhancing Billion-Scale ANNS Efficiency with Practical PIM Hardware.
+1. Wenjun Yu, **Sitian Chen**, Amelie Chi Zhou, Cheng Chen. Near-Zero-Overhead Freshness for Recommendation Systems via
+Inference-Side Model Updates. **In HPCA' 2026**
+
+2. **Sitian Chen**, Amelie Chi Zhou, Yucheng Shi, Xin Yao. UpANNS: Enhancing Billion-Scale ANNS Efficiency with Practical PIM Hardware.
 **In SC 25**
 
-2. **Sitian Chen**, Haobin Tan, Amelie Chi Zhou, Yusen Li, Pavan Balaji **(Meta)**. UpDLRM: Accelerating Personalized Recommendation using Real-World PIM Architecture. **In DAC 2024**
-
-3. Wenjun Yu, **Sitian Chen**, Amelie Chi Zhou, Cheng Chen **(Bytedance)**. Near-Zero-Overhead Freshness for Recommendation Systems via
-Inference-Side Model Updates. **In HPCA' 2026**
+3. **Sitian Chen**, Haobin Tan, Amelie Chi Zhou, Yusen Li, Pavan Balaji. UpDLRM: Accelerating Personalized Recommendation using Real-World PIM Architecture. **In DAC 2024**
 
 <!-- 3. **Sitian Chen**, Amelie Chi Zhou, et al. GPAQuant: Accelerating Personalized Recommendation with Group-Wise and PIM-Aware Quantization. (Under Review) -->
 
-3. Yao Xiao, **Sitian Chen**, Amelie Chi Zhou, Shuhao Zhang, Yi Wang, Rui Mao, Xuan Yang. Low-Latency Video Conferencing System for Geo-Distributed Data Centers. **In IWQoS, 2024.**
+4. Yao Xiao, **Sitian Chen**, Amelie Chi Zhou, Shuhao Zhang, Yi Wang, Rui Mao, Xuan Yang. Low-Latency Video Conferencing System for Geo-Distributed Data Centers. **In IWQoS, 2024.**
 
 🎖️Honors and Awards
 ======
@@ -54,6 +58,22 @@ Inference-Side Model Updates. **In HPCA' 2026**
 
 🧑‍🏫 Teaching Assistant
 ======
-**Operating system**
+**COMP7940 Cloud Computing**
+
+📅 Spring 2026
+
+**COMP7160 Research Methods in Computer Science**
+
+📅 Fall 2025
+
+**COMP2017 Operating system**
 
 📅 Spring 2025 \| *TA Performance Award*
+
+---
+
+{% include visitor-map.html %}
+
+---
+
+**Latest update:** January 2026

@@ -58,6 +58,10 @@
   img {
     width: 100%;
   }
+  
+  .author__avatar img {
+    width: auto;
+  }
 }
 
 .sidebar__right {
@@ -89,17 +93,35 @@
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
+    width: 100%;
+    max-width: 100%;
     height: auto;
+    text-align: center;
+    padding: 0 10px;
+    box-sizing: border-box;
   }
 
   img {
-    max-width: 175px;
-    border-radius: 50%;
+    max-width: 100%;
+    width: auto;
+    height: auto;
+    border-radius: 30%;
+    display: block;
+    margin: 0 auto;
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid var(--global-border-color);
+      max-width: 200px;
+      width: 100%;
+      padding: 8px;
+      border: 2px solid var(--global-border-color);
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      box-sizing: border-box;
+      
+      &:hover {
+        transform: scale(1.02);
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+      }
     }
   }
 }
