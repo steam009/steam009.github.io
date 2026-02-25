@@ -1,10 +1,20 @@
 services:
   jekyll-site:
-    image: jekyll-site
-    build: .
-    volumes: [ .:/usr/src/app ]
-    ports: [ 4000:4000 ]
-    user: 1000:1000
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: jekyll-site:latest
+    container_name: jekyll-site
+    volumes:
+      - .:/usr/src/app
+      - bundle_cache:/usr/local/bundle
+    ports:
+      - "4000:4000"
     environment:
       - JEKYLL_ENV=development
-    command: jekyll serve -H 0.0.0.0 -w --config _config.yml,_config.local.yml
+    command: bundle exec jekyll serve -H 0.0.0.0 -w --config _config.yml,_config.local.yml
+    stdin_open: true
+    tty: true
+
+volumes:
+  bundle_cache:

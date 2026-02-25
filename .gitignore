@@ -21,3 +21,5 @@ package-lock.json
 
 # Ignore local development configuration
 _config.local.yml
+
+DOCKER_USAGE.md

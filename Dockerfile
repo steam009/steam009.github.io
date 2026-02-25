@@ -5,6 +5,9 @@ FROM ruby:3.2
 RUN apt-get update && apt-get install -y \
     build-essential \
     nodejs \
+    libxml2-dev \
+    libxslt1-dev \
+    zlib1g-dev \
     && rm -rf /var/lib/apt/lists/*
 
 
@@ -21,14 +24,16 @@ RUN chown -R vscode:vscode /usr/src/app
 # Switch to the non-root user
 USER vscode
 
-# Copy Gemfile into the container (necessary for `bundle install`)
-COPY Gemfile ./
+# Copy Gemfile and Gemfile.lock into the container
+COPY Gemfile Gemfile.lock ./
 
 
 
 # Install bundler and dependencies
 RUN gem install connection_pool:2.5.0
 RUN gem install bundler:2.3.26
+RUN bundle config set --local deployment 'false'
+RUN bundle config set --local path '/usr/local/bundle'
 RUN bundle install
 
 # Command to serve the Jekyll site
