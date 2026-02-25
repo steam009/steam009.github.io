@@ -49,7 +49,7 @@ In the end, I aim to enable more efficient, accessible, and robust AI systems fo
 2. **Sitian Chen**, Haobin Tan, Amelie Chi Zhou, Yusen Li, Pavan Balaji. UpDLRM: Accelerating Personalized Recommendation using Real-World PIM Architecture. **In DAC 2024**
 
 
-**Co-Author**fgghh
+**Co-Author**
 
 1. Guofan Yu, **Sitian Chen**, Zhenheng Tang, Xiaowen Chu, Amelie Chi Zhou. SNI-GNN: SmartNIC-Assisted Full-Graph GNN Training with In-Network Embedding Prediction. **In ICDE’ 2026**
 
