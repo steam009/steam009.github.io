@@ -9,7 +9,7 @@ redirect_from:
 
 **Welcome!** I am a PhD student in the department of computer science in Hong Kong Baptist University, advised by [Prof. Amelie Chi Zhou](https://amelieczhou.github.io/). I earned my BS in Shenzhen University of computer science and technology.
 
-You can find my CV here: [Sitian CHEN](../assets/Resume_CV__Sitian_CHEN%20(2).pdf) I am always happy to chat with you! 
+You can find my CV here: [Sitian CHEN](../assets/Resume_CV__Sitian_CHEN%20(2).pdf), [中文简历](../assets/Chinese_Resume.pdf)
 
 My research interests focus on **system for AI application**, especially in **processing-in-memory**, **high-performance computing**. My work aims to improve the cost-efficiency of cutting-edge applications in
 machine learning systems, including retrieval-augmented generation (RAG), vector search, and recommender systems. By exploring new hardware solutions and optimizing system-level integration, my goal is to bridge the gap between rapidly evolving machine learning models and the underlying computational infrastructure.
@@ -51,10 +51,10 @@ In the end, I aim to enable more efficient, accessible, and robust AI systems fo
 
 **Co-Author**
 
-1. Guofan Yu, **Sitian Chen**, Zhenheng Tang, Xiaowen Chu, Amelie Chi Zhou. SNI-GNN: SmartNIC-Assisted Full-Graph GNN Training with In-Network Embedding Prediction. **In ICDE’ 2026**
+1. Guofan Yu, **Sitian Chen**, Zhenheng Tang, Xiaowen Chu, Amelie Chi Zhou. SNI-GNN: SmartNIC-Assisted Full-Graph GNN Training with In-Network Embedding Prediction. **In ICDE 2026**
 
 1. Wenjun Yu, **Sitian Chen**, Amelie Chi Zhou, Cheng Chen. Near-Zero-Overhead Freshness for Recommendation Systems via
-Inference-Side Model Updates. **In HPCA' 2026**
+Inference-Side Model Updates. **In HPCA 2026**
 
 2. Yao Xiao, **Sitian Chen**, Amelie Chi Zhou, Shuhao Zhang, Yi Wang, Rui Mao, Xuan Yang. Low-Latency Video Conferencing System for Geo-Distributed Data Centers. **In IWQoS, 2024.**
 
