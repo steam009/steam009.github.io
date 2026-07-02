@@ -25,7 +25,7 @@
   }
 
   @include breakpoint($large) {
-    @include span(2 of 12);
+    @include span(3 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -87,7 +87,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
+  width: 56px;
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -105,22 +105,25 @@
     max-width: 100%;
     width: auto;
     height: auto;
-    border-radius: 30%;
+    border-radius: 8px;
     display: block;
     margin: 0 auto;
 
     @include breakpoint($large) {
-      max-width: 200px;
-      width: 100%;
-      padding: 8px;
-      border: 2px solid var(--global-border-color);
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      max-width: 220px;
+      width: 220px;
+      height: 220px;
+      padding: 0;
+      border: 3px solid var(--global-border-color);
+      box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
       transition: transform 0.3s ease, box-shadow 0.3s ease;
       box-sizing: border-box;
-      
+      object-fit: cover;
+      object-position: center 25%;
+
       &:hover {
-        transform: scale(1.02);
-        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+        transform: scale(1.03);
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.18);
       }
     }
   }

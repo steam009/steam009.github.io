@@ -1,0 +1,33 @@
+/* ==========================================================================
+   Experience Row (used in about.md for Education / Experience / TA)
+   ========================================================================== */
+
+.experience-row {
+  margin: 0.6em 0 1.1em 0;
+  padding: 0;
+}
+
+.experience-main {
+  margin-bottom: 0.15em;
+  line-height: 1.4;
+}
+
+.experience-meta {
+  font-size: $type-size-6;
+  color: var(--global-text-color-light);
+  font-style: italic;
+}
+
+.award-badge {
+  display: inline-block;
+  margin-left: 0.3em;
+  padding: 0.1em 0.55em;
+  font-size: $type-size-7;
+  font-weight: 600;
+  font-style: normal;
+  color: #fff;
+  background-color: var(--global-link-color);
+  border-radius: 3px;
+  vertical-align: middle;
+  letter-spacing: 0.02em;
+}
