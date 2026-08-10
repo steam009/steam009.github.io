@@ -23,3 +23,5 @@ package-lock.json
 _config.local.yml
 
 DOCKER_USAGE.md
+
+CLAUDE.md
